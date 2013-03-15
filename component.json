@@ -1,0 +1,36 @@
+{
+  "name": "vie",
+  "version": "2.1.0",
+  "description": "Editable RDFa with Backbone.js and JSON-LD",
+  "url": "http://viejs.org",
+  "keywords": [
+    "util",
+    "rdfa",
+    "model",
+    "template",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "Henri Bergius <henri.bergius@iki.fi>",
+  "contributors": [
+    "Benjamin Eberlei",
+    "Sebastian Germesin",
+    "Szaby Gr\u00fcnwald",
+    "Christopher Hlubek",
+    "Rene Kapusta",
+    "Sebastian Kurfuerst",
+    "Jonatan Lundin",
+    "Nicolas Karageuzian",
+    "Johannes Sch\u00fcth"
+  ],
+  "dependencies": {
+    "components/backbone": "*",
+    "components/underscore": "*",
+    "components/jquery": "*",
+    "components/request": "*"
+  },
+  "scripts": [
+    "vie.js"
+  ]
+}
