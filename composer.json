@@ -22,8 +22,7 @@
   "require": {
     "components/backbone": ">=0.9.2",
     "components/underscore": ">=1.2.0",
-    "components/jquery": ">=1.6.0",
-    "components/request": ">=2.2.0"
+    "components/jquery": ">=1.6.0"
   },
   "extra": {
     "components": {
