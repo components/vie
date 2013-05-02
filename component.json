@@ -1,5 +1,6 @@
 {
   "name": "vie",
+  "repo": "components/vie",
   "version": "2.1.0",
   "description": "Editable RDFa with Backbone.js and JSON-LD",
   "url": "http://viejs.org",
@@ -25,10 +26,9 @@
     "Johannes Sch\u00fcth"
   ],
   "dependencies": {
-    "backbone": "~0.9.2",
-    "underscore": "~1.4.4",
-    "jquery": "~1.8.0",
-    "request": "~2.2.0"
+    "components/backbone": "~0.9.2",
+    "components/underscore": "~1.4.4",
+    "components/jquery": "~1.8.0"
   },
   "scripts": [
     "vie.js"
