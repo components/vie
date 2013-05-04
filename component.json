@@ -28,7 +28,7 @@
   "dependencies": {
     "components/backbone": "~0.9.2",
     "components/underscore": "~1.4.4",
-    "components/jquery": "~1.8.0"
+    "component/jquery": "~1.9.1"
   },
   "scripts": [
     "vie.js"
