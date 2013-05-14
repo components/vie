@@ -28,7 +28,11 @@
     "components": {
       "scripts": [
         "vie.js"
-      ]
+      ],
+      "shim": {
+        "deps": ["backbone", "underscore", "jquery"],
+        "exports": "VIE"
+      }
     }
   }
 }

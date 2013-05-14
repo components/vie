@@ -30,6 +30,7 @@
     "components/underscore": "~1.4.4",
     "component/jquery": "~1.9.1"
   },
+  "main": "vie.js",
   "scripts": [
     "vie.js"
   ]
